@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #191919;
+    color: azure;
+    width: 100%;
+    height: 500px;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+table {
+    border: 2px solid green;
+    border-collapse:collapse;
+    padding: 10px;
+
+}
+ th{
+    border: 2px solid green;
+    border-collapse: separate;
+    padding: 10px;
+    color: red;
+}
+td{
+    border: 2px solid green;
+    border-collapse: separate;
+    padding: 10px;
+    color: white;
+}
